@@ -23860,8 +23860,10 @@ Protein_chain_A     3
 
 [ system ]
 ; Name
-PEPTIDYL-PROLYL CIS-TRANS ISOMERASE NIMA-INTERACTING 1; 5 ROTAMASE PIN1
+PEPTIDYL-PROLYL CIS-TRANS ISOMERASE NIMA-INTERACTING 1; 5 ROTAMASE PIN1 in water
 
 [ molecules ]
 ; Compound        #mols
 Protein_chain_A     1
+SOL         17454
+CL               3
